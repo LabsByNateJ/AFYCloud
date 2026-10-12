@@ -17,7 +17,7 @@ These labs are planned; this index does not claim deployment or validation. Trac
 | Storage | [#7](https://github.com/LabsByNateJ/AFYCloud/issues/7) | projects/storage/ |
 | Spot VM snapshot automation review and consolidation | [#8](https://github.com/LabsByNateJ/AFYCloud/issues/8) | projects/spot-vm-snapshots/ |
 
-The [existing snapshot automation repository](https://github.com/LabsByNateJ/spotvm-snapshot-automation) remains the source until its implementation is reviewed and history-preserving consolidation is completed.
+The snapshot implementation is now in [projects/spot-vm-snapshots](projects/spot-vm-snapshots/README.md). Read its [review notes](projects/spot-vm-snapshots/docs/review.md) before deployment. Original commit history remains in the [source repository](https://github.com/LabsByNateJ/spotvm-snapshot-automation); it has not been imported into this repository's history.
 
 ## Project documentation
 
